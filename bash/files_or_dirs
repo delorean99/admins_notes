@@ -1,3 +1,5 @@
+#/bin/bash
+
 #Find and create dirs
 #If we need to find only folders and create it after, look not good but work
 
